@@ -1,9 +1,5 @@
 {
-  "name": "teoti",
-  "component": false,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
-  },
+  "name": "teoti":
   "color_schemes": {
     "Material Teal/Amber": {
       "primary": "212121",
@@ -65,5 +61,4 @@
       "success": "009900",
       "love": "fa6c8d"
     }
-  },
-  "modifiers": {
+  
