@@ -1,7 +1,11 @@
 {
-  "name": "teoti":
-  "color_schemes": {
-    "Material Teal/Amber": {
+   "name" : "colours-teoti",
+   "about_url" : "",
+   "license_url": "",
+   "color_schemes": {
+   }
+}
+    "Teal/Amber": {
       "primary": "212121",
       "secondary": "fafafa",
       "tertiary": "ffa000",
@@ -12,8 +16,8 @@
       "danger": "ff5722",
       "success": "4caf50",
       "love": "fa6c8d"
-    },
-    "Material Red/Blue": {
+    }
+    "Red/Blue": {
       "primary": "212121",
       "secondary": "fafafa",
       "tertiary": "448aff",
@@ -24,8 +28,8 @@
       "danger": "ff6d00",
       "success": "4caf50",
       "love": "fa6c8d"
-    },
-    "Material Blue/Red": {
+    }
+    "Blue/Red": {
       "primary": "212121",
       "secondary": "fafafa",
       "tertiary": "ff5252",
@@ -36,8 +40,8 @@
       "danger": "ff6d00",
       "success": "4caf50",
       "love": "fa6c8d"
-    },
-    "Material Indigo/Orange": {
+    }
+    "Indigo/Orange": {
       "primary": "212121",
       "secondary": "fafafa",
       "tertiary": "ff5722",
@@ -48,8 +52,8 @@
       "danger": "f44336",
       "success": "4caf50",
       "love": "fa6c8d"
-    },
-    "Material Dark": {
+    }
+    "New Dark": {
       "primary": "fafafa",
       "secondary": "212121",
       "tertiary": "00bcd4",
